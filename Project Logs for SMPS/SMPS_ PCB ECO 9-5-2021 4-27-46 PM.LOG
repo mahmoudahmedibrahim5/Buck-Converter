@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C1 Old Footprint=0402 New Footprint=1206
+Added Member To Class: ClassName=SMPS Member=Component C1 10uF
+Added Member To Class: ClassName=SMPS Member=Component C2 0.1uF
+Added Member To Class: ClassName=SMPS Member=Component C3 10uF
+Added Member To Class: ClassName=SMPS Member=Component C5 470nF
+Added Room: Name=SMPS

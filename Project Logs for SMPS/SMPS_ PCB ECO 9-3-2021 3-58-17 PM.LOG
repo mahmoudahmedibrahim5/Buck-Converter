@@ -1,0 +1,10 @@
+Change Component Comment : Designator=C5 Old Comment=2SEPC390M+TSS New Comment=4700uF
+Change Component Comment : Designator=C3 Old Comment=Capacitor New Comment=2.2uF
+Change Component Comment : Designator=C1 Old Comment=Capacitor New Comment=10uF
+Change Component Comment : Designator=C2 Old Comment=Capacitor New Comment=10uF
+Change Component Comment : Designator=C4 Old Comment=Capacitor New Comment=470nF
+Change Component Comment : Designator=R3 Old Comment=Resistor New Comment=75kO
+Change Component Comment : Designator=R1 Old Comment=Resistor New Comment=140KO
+Change Component Comment : Designator=R2 Old Comment=Resistor New Comment=140KO
+Change Component Comment : Designator=R5 Old Comment=Resistor New Comment=330O
+Added Room: Name=SMPS

@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=R4 Old Footprint=Variable_RES New Footprint=TOP_ADJ
+Change Component Comment : Designator=R4 Old Comment=3310C-001-503L New Comment=20KO
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change component parameters: Designator = "C5"; Footprint = "2SEPC390M+TSS"; UniqueID = "\UPDEQEMK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "2SEPC390M+TSS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "LED"; UniqueID = "\OKEQHGTP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "158301260"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "IHLP5050EZER4R7M01"; UniqueID = "\ODIDEMUH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "IHLP5050EZER4R7M01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1"; Footprint = "power"; UniqueID = "\DBQRWBWY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "PJ-037AH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "Output"; UniqueID = "\AZYXTIJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1"; Footprint = "CSD18540Q5B"; UniqueID = "\MRBIPVKU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "CSD18540Q5B"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2"; Footprint = "CSD18540Q5B"; UniqueID = "\YFFZLCWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "CSD18540Q5B"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "TOP_ADJ"; UniqueID = "\QVABBAPP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "3360Y-1-503LF"; VariantName = "[No Variations]"
+Added Room: Name=SMPS

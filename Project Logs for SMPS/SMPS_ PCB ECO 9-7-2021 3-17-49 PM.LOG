@@ -1,0 +1,46 @@
+Change Component Footprint: Designator=R4 Old Footprint=TOP_ADJ New Footprint=Side_ADJ
+Change component parameters: Designator = "R4"; Footprint = "Side_ADJ"; UniqueID = "\KHZCOHKD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "3360Y-1-503LF   "; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "1206"; UniqueID = "\QCXFOKDX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "1206"; UniqueID = "\QVPKEGMZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "12065C104KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "1206"; UniqueID = "\NZOCIQNG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "12063D106KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "1206"; UniqueID = "\IXKLEMFF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "12063C225K4Z2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "1206"; UniqueID = "\WZDJAZBW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "12065E474MAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "1206"; UniqueID = "\UGOBTQWV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "RT1206DRD07140KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "1206"; UniqueID = "\EVDPVURB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "RT1206DRD07140KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "1206"; UniqueID = "\OFCOMAFA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "RT1206DRD0775KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "1206"; UniqueID = "\YEZCXPWZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "RT1206DRE07330RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "LM3150MH/NOPB"; UniqueID = "\UMWGLDYH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "LM3150MH/NOPB"; VariantName = "[No Variations]"
+Added Room: Name=SMPS

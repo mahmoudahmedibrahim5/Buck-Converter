@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SMPS.PrjPcb]
+   Generated File[SMPS.TXT]
+   Generated File[SMPS-RectHoles.TXT]
+   Generated File[SMPS.LDP]
+   Generated File[SMPS.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:18:14 PM On 9/28/2021

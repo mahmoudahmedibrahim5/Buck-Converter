@@ -1,0 +1,116 @@
+Added Component: Designator=C1(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(IHLP5050EZER4R7M01)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(CSD18540Q5B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(CSD18540Q5B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(LM3150MH/NOPB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=+5 Pin=L1-2
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=C1-2
+Added Pin To Net: NetName=+12 Pin=Q1-2
+Added Pin To Net: NetName=+12 Pin=Q1-2
+Added Pin To Net: NetName=+12 Pin=Q1-2
+Added Pin To Net: NetName=+12 Pin=R1-2
+Added Pin To Net: NetName=+12 Pin=U?-2
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U?-6
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U?-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=L1-1
+Added Pin To Net: NetName=NetC4_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC4_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC4_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC4_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC4_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC4_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC4_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC4_1 Pin=R2-2
+Added Pin To Net: NetName=NetC4_1 Pin=U?-10
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U?-12
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=U?-11
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=U?-13
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U?-7
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U?-8
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Pin To Net: NetName=NetR3_1 Pin=U?-4
+Added Net: Name=NetR3_1
+Added Class: Name=SMPS
+Added Room: Name=SMPS

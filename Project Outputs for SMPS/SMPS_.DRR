@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SMPS_.PcbDoc   9/9/2021  2:23:43 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SMPS_.TXT
+ASCII RectHoles File : SMPS_-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             41        PTH        0.00mm (0.00inch)
+T2      0.5mm (20mil)           +/-0.05mm (2mil)                  Round             2         PTH        0.00mm (0.00inch)
+T3      0.5mm (20mil)                                             Round             3         PTH        0.00mm (0.00inch)
+T4      0.7mm (28mil)                                             Rectangle         1         PTH        0.00mm (0.00inch)
+T5      0.8mm (31mil)                                             Rectangle         1         PTH        0.00mm (0.00inch)
+T6      0.9mm (35mil)                                             Rectangle         2         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              50
+
+Total Processing Time (hh:mm:ss) : 00:00:00

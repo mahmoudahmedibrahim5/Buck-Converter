@@ -1,0 +1,8 @@
+Added Component: Designator=R4(TOP_ADJ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MF"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "3360Y-1-503LF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR3_1 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Member To Class: ClassName=SMPS Member=Component R4 20kO
+Added Room: Name=SMPS

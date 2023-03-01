@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P2 Old Footprint=power New Footprint=Output
+Change Component Comment : Designator=P2 Old Comment=PJ-037AH New Comment=102-6179-ND
+Change component parameters: Designator = "P2"; Footprint = "Output"; UniqueID = "\AZYXTIJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=SMPS

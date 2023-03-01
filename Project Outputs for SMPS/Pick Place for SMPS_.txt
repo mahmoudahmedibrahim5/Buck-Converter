@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+C:\Users\ADMIN\Desktop\Courses\EME Training\Session 3\SMPS_Mahmoud_Ahmed\Project Outputs for SMPS\Pick Place for SMPS_.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/09/21
+Time:       03:11
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment       Layer    Footprint      Center-X(mm) Center-Y(mm) Rotation Description                        
+C1         10uF          TopLayer 1206           19.0500      26.4160      90       "CAP CER SMD"                      
+U1         LM3150MH/NOPB TopLayer LM3150MH/NOPB  31.1150      26.4160      0        "IC REG CTRLR BUCK 14TSSOP"        
+R5         330O          TopLayer 1206           1.9050       17.6530      270      ""                                 
+R4         20KO          TopLayer TOP_ADJ        9.7790       12.0650      360      "POT 50K OHM 1/4W PLASTIC LINEAR"  
+R3         75kO          TopLayer 1206           12.3190      4.0640       270      ""                                 
+R2         140KO         TopLayer 1206           39.6240      16.2560      360      ""                                 
+R1         140KO         TopLayer 1206           8.8900       21.4630      180      ""                                 
+Q2         CSD18540Q5B   TopLayer CSD18540Q5B    24.7650      19.1770      90       "MOSFET N-CH 60V 100A 8VSON"       
+Q1         CSD18540Q5B   TopLayer CSD18540Q5B    39.6240      26.5670      270      "MOSFET N-CH 60V 100A 8VSON"       
+P2         102-6179-ND   TopLayer Output         28.8290      5.3340       90       "TERMINAL BLOCK, SCREW TYPE, 5.08" 
+P1         PJ-037AH      TopLayer power          11.0010      27.6860      180      "CONN PWR JACK 2X5.5MM SOLDER"     
+L1         4.7uH         TopLayer LQW2UAS4R7J00L 31.4960      12.5730      270      "FIXED IND 4.7UH 260MA 4 OHM SMD"  
+D1         158301260     TopLayer LED            1.9050       12.4460      180      "LED WL-SWTP COOL WHT 6000K 1206"  
+C6         4700uF        TopLayer 2SEPC390M+TSS  18.9230      4.0640       90       "CAP ALUM POLY 390UF 20% 2.5V T/H" 
+C5         470nF         TopLayer 1206           39.6240      20.1930      180      "CAP CER SMD"                      
+C4         2.2uF         TopLayer 1206           32.8930      20.7010      360      "CAP CER SMD"                      
+C3         10uF          TopLayer 1206           32.8930      16.7640      180      "CAP CER SMD"                      
+C2         0.1uF         TopLayer 1206           22.8600      26.4160      90       "CAP CER SMD"                      

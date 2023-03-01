@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+12 Pin=U?-2
+Removed Pin From Net: NetName=NetR3_1 Pin=U?-4
+Removed Pin From Net: NetName=GND Pin=U?-5
+Removed Pin From Net: NetName=GND Pin=U?-5
+Removed Pin From Net: NetName=NetC4_1 Pin=U?-10
+Removed Member From Class: ClassName=SMPS Member=U?
